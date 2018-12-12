@@ -1,0 +1,5 @@
+suites:
+    main:
+        namespace: Service
+        psr4_prefix: Service
+        src_path: app
